@@ -1,0 +1,9 @@
+POST localhost:8080/symbols/customResponse
+Content-Type: application/json
+
+{
+  "Symbol": {
+    "value": "TEST_VALUE"
+  }
+}
+
